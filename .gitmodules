@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "perturbatr"]
+	path = perturbatr
+	url = https://github.com/cbg-ethz/perturbatr
+	shallow = true
+	registered = true
