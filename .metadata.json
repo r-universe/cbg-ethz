@@ -1,5 +1,17 @@
 [
   {
+    "package": "dce"
+  },
+  {
+    "package": "epiNEM"
+  },
+  {
+    "package": "mnem"
+  },
+  {
+    "package": "nempi"
+  },
+  {
     "package": "perturbatr"
   }
 ]
