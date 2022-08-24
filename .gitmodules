@@ -23,6 +23,11 @@
 	url = https://github.com/cbg-ethz/nempi
 	shallow = true
 	registered = true
+[submodule "pareg"]
+	path = pareg
+	url = https://github.com/cbg-ethz/pareg
+	shallow = true
+	registered = true
 [submodule "perturbatr"]
 	path = perturbatr
 	url = https://github.com/cbg-ethz/perturbatr

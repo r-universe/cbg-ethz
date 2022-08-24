@@ -12,6 +12,9 @@
     "package": "nempi"
   },
   {
+    "package": "pareg"
+  },
+  {
     "package": "perturbatr"
   }
 ]
