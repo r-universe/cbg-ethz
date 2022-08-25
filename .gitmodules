@@ -28,8 +28,3 @@
 	url = https://github.com/cbg-ethz/pareg
 	shallow = true
 	registered = true
-[submodule "perturbatr"]
-	path = perturbatr
-	url = https://github.com/cbg-ethz/perturbatr
-	shallow = true
-	registered = true
