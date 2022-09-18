@@ -18,3 +18,8 @@
 	url = https://github.com/cbg-ethz/mnem
 	shallow = true
 	registered = true
+[submodule "pareg"]
+	path = pareg
+	url = https://github.com/cbg-ethz/pareg
+	shallow = true
+	registered = true
