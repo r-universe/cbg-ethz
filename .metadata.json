@@ -4,5 +4,14 @@
   },
   {
     "package": "epiNEM"
+  },
+  {
+    "package": "mnem"
+  },
+  {
+    "package": "nempi"
+  },
+  {
+    "package": "pareg"
   }
 ]
