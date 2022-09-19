@@ -13,13 +13,3 @@
 	url = https://github.com/cbg-ethz/epinem
 	shallow = true
 	registered = true
-[submodule "mnem"]
-	path = mnem
-	url = https://github.com/cbg-ethz/mnem
-	shallow = true
-	registered = true
-[submodule "pareg"]
-	path = pareg
-	url = https://github.com/cbg-ethz/pareg
-	shallow = true
-	registered = true

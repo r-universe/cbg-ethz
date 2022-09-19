@@ -4,11 +4,5 @@
   },
   {
     "package": "epiNEM"
-  },
-  {
-    "package": "mnem"
-  },
-  {
-    "package": "pareg"
   }
 ]
