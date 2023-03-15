@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "dce"]
-	path = dce
-	url = https://github.com/cbg-ethz/dce
+[submodule "nempi"]
+	path = nempi
+	url = https://github.com/cbg-ethz/nempi
 	shallow = true
 	registered = true
 [submodule "epiNEM"]
@@ -18,9 +18,9 @@
 	url = https://github.com/cbg-ethz/mnem
 	shallow = true
 	registered = true
-[submodule "nempi"]
-	path = nempi
-	url = https://github.com/cbg-ethz/nempi
+[submodule "dce"]
+	path = dce
+	url = https://github.com/cbg-ethz/dce
 	shallow = true
 	registered = true
 [submodule "pareg"]
