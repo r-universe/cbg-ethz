@@ -1,6 +1,6 @@
 [
   {
-    "package": "nempi"
+    "package": "dce"
   },
   {
     "package": "epiNEM"
@@ -9,7 +9,7 @@
     "package": "mnem"
   },
   {
-    "package": "dce"
+    "package": "nempi"
   },
   {
     "package": "pareg"
