@@ -5,18 +5,3 @@
 [submodule "clustNet"]
 	path = clustNet
 	url = https://github.com/cbg-ethz/clustnet
-[submodule "dce"]
-	path = dce
-	url = https://github.com/cbg-ethz/dce
-[submodule "epiNEM"]
-	path = epiNEM
-	url = https://github.com/cbg-ethz/epinem
-[submodule "mnem"]
-	path = mnem
-	url = https://github.com/cbg-ethz/mnem
-[submodule "nempi"]
-	path = nempi
-	url = https://github.com/cbg-ethz/nempi
-[submodule "pareg"]
-	path = pareg
-	url = https://github.com/cbg-ethz/pareg
